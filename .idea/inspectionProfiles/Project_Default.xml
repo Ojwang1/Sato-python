@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="app.database_and_tables_file" />
+          <option value="database_and_file.SqliteDatabase" />
+          <option value="database_and_file.Model" />
+          <option value="database_and_file.CharField" />
+          <option value="database_and_file.peewee" />
+          <option value="database_and_file.DoubleField" />
+          <option value="app.flask_bcrypt" />
+          <option value="flask_bcrypt" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
